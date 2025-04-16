@@ -1,5 +1,5 @@
 crewai
-crewai_tools
+crewai_tools==0.0.26
 langchain-huggingface
 streamlit
 chromadb==0.4.14
