@@ -24,7 +24,7 @@ blog_researcher=Agent(
     backstory=(
        "Expert in understanding videos in AI Data Science , MAchine Learning And GEN AI and providing suggestion" 
     ),
-    tools=[],  # Will be set after API key is provided
+    tools=[], 
     allow_delegation=True
 )
 
@@ -39,6 +39,6 @@ blog_writer=Agent(
         "engaging narratives that captivate and educate, bringing new"
         "discoveries to light in an accessible manner."
     ),
-    tools=[],  # Will be set after API key is provided
+    tools=[],
     allow_delegation=False
 )
