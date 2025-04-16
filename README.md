@@ -1,6 +1,12 @@
-<center><h1>🚀 CrewAI Blog Generator Agent 🚀</h1></center>
+<div align="center">
 
-Turn YouTube videos into awesome blog posts automatically! ✨ This app uses CrewAI agents to find YouTube videos on your topic (from a specific channel or default), grab the content, and write a blog post using AI via a simple Streamlit interface.
+# 🚀 CrewAI Blog Generator Agent 🚀
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blog-generator-agent.streamlit.app/)
+
+</div>
+
+Developed a Streamlit-based CrewAI Blog Generator Agent that leverages CrewAI agent workflows and the YouTube Data API to automatically discover and retrieve topic-relevant video transcripts.  Integrated GPT‑4 via the OpenAI API with pydantic-driven agents to convert transcripts into polished, markdown-ready blog posts, automating the end-to-end video-to-blog pipeline.
 
 ![Landing Page](landing.png)
 
@@ -36,6 +42,10 @@ Turn YouTube videos into awesome blog posts automatically! ✨ This app uses Cre
 3.  **OpenAI API Key:**
     -   You need a GPT-4 capable OpenAI key (model in `agents.py`).
     -   Enter it in the app's sidebar (it's not stored).
+  
+## Live Demo  
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blog-generator-agent.streamlit.app/)
 
 ## How to Use 📝
 
