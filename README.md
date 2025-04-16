@@ -24,7 +24,7 @@ Turn YouTube videos into awesome blog posts automatically! ✨ This app uses Cre
 
 1.  **Clone:**
     ```bash
-    git clone https://github.com/your-username/CrewAI-Blog-Generator-Agent.git
+    git clone https://github.com/pjmreddy/CrewAI-Blog-Generator-Agent.git
     cd CrewAI-Blog-Generator-Agent
     ```
 
