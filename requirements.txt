@@ -2,3 +2,9 @@ crewai
 crewai_tools
 langchain-huggingface
 streamlit
+python==3.11
+chromadb
+uvicorn
+fastapi
+pydantic
+duckdb
