@@ -7,7 +7,7 @@
 </div>
 
 Developed a Streamlit-based CrewAI Blog Generator Agent that leverages CrewAI agent workflows and the YouTube Data API to automatically discover and retrieve topic-relevant video transcripts. Integrated GPT‑4 via the OpenAI API with pydantic-driven agents to convert transcripts into polished, markdown-ready blog posts, automating the end-to-end video-to-blog pipeline.
-
+  
 ![Landing Page](landing.png)
 
 ## Features 🌟
